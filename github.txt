@@ -1,2 +1,3 @@
-# -n-C-ng-Ngh-Ph-n-M-m
+﻿# -n-C-ng-Ngh-Ph-n-M-m
 Đồ Án Công Nghệ Phần Mềm - Đề Tài: Quản lý xuất nhập kho linh kiện điện tử.
+hehe
